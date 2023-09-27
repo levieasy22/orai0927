@@ -1,0 +1,15 @@
+D:\Igli Levente\tavesz\tavesz\bin\Debug\net6.0\tavesz.exe
+D:\Igli Levente\tavesz\tavesz\bin\Debug\net6.0\tavesz.deps.json
+D:\Igli Levente\tavesz\tavesz\bin\Debug\net6.0\tavesz.runtimeconfig.json
+D:\Igli Levente\tavesz\tavesz\bin\Debug\net6.0\tavesz.dll
+D:\Igli Levente\tavesz\tavesz\bin\Debug\net6.0\tavesz.pdb
+D:\Igli Levente\tavesz\tavesz\obj\Debug\net6.0\tavesz.csproj.AssemblyReference.cache
+D:\Igli Levente\tavesz\tavesz\obj\Debug\net6.0\tavesz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Igli Levente\tavesz\tavesz\obj\Debug\net6.0\tavesz.AssemblyInfoInputs.cache
+D:\Igli Levente\tavesz\tavesz\obj\Debug\net6.0\tavesz.AssemblyInfo.cs
+D:\Igli Levente\tavesz\tavesz\obj\Debug\net6.0\tavesz.csproj.CoreCompileInputs.cache
+D:\Igli Levente\tavesz\tavesz\obj\Debug\net6.0\tavesz.dll
+D:\Igli Levente\tavesz\tavesz\obj\Debug\net6.0\refint\tavesz.dll
+D:\Igli Levente\tavesz\tavesz\obj\Debug\net6.0\tavesz.pdb
+D:\Igli Levente\tavesz\tavesz\obj\Debug\net6.0\tavesz.genruntimeconfig.cache
+D:\Igli Levente\tavesz\tavesz\obj\Debug\net6.0\ref\tavesz.dll
